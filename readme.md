@@ -1,4 +1,4 @@
-# Aplikasi DrumKit menggunakan Bahasa pemrograman Javascript
+# Aplikasi DrumKit menggunakan bahasa pemrograman Javascript
 
 ### 1. Clone This Repository
 
@@ -10,4 +10,6 @@ git clone https://github.com/alipramdhani/CH02__23-09-04__DOM-Advance--DrumKit.g
 
 ### 3. Play Drumkit Application!
 
-![image.png]({./../public/Drumkit-App-Image.png})
+### Drumkit App
+
+![DrumkitApp]({/public/Drumkit-App-Image.png})
