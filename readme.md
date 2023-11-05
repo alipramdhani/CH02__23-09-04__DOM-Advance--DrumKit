@@ -12,4 +12,4 @@ git clone https://github.com/alipramdhani/CH02__23-09-04__DOM-Advance--DrumKit.g
 
 ### Drumkit App
 
-![DrumkitApp]({/public/Drumkit-App-Image.png})
+![DrumkitApp](/public/Drumkit-App-Image.png)
