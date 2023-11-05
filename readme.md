@@ -11,3 +11,5 @@ git clone https://github.com/alipramdhani/CH02__23-09-04__DOM-Advance--DrumKit.g
 ### 3. Play Drumkit Application!
 
 ### Drumkit App
+
+![DrumkitApp}](/images/Drumkit-App-Image.png)
